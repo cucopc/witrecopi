@@ -19,7 +19,7 @@ def read_audio(WAVE_FILENAME):
 API_ENDPOINT = 'https://api.wit.ai/speech'
  
 # Wit.ai api access token
-wit_access_token = 'KI4VRKXKS3RIZGCXPMCG64HTLT5VE3QP'
+wit_access_token = ''
  
 def ReconocimientoVoz(AUDIO_FILENAME):
  
